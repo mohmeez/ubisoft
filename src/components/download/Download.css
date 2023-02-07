@@ -1,0 +1,40 @@
+section#download {
+    background: linear-gradient(90deg, rgba(12,12,13,1) 46%, rgba(139,58,34,1) 96%);
+
+    text-align: center;
+    color: var(--color-white);
+}
+
+.download h2 {
+    font-size: 3rem;
+    font-weight: 600;
+    line-height: 1.4;
+    text-transform: uppercase;
+    margin: 1.5rem 0;
+    padding-bottom: 1rem;
+    position: relative;
+
+}
+
+.download-icons {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 2rem;
+
+}
+
+.download-icon {
+    margin: 2rem 3rem;
+    border: 2px solid #fff;
+    border-radius: 20px;
+    width:12rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 1rem;
+    font-size: 1.5rem;
+    
+
+
+}

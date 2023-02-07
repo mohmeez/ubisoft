@@ -1,0 +1,51 @@
+.features-content {
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+}
+
+.feature-left img{
+    width: 90%;
+    margin-bottom: 4rem;
+    margin-top: 3rem;    
+}
+
+
+
+.feature-right img{
+    width: 90%;
+    margin-bottom: 4rem;   
+    
+    
+}
+
+@media screen and (max-width:600px) {
+    .features-content {
+        flex-direction: column;
+    }
+
+    .feature-left,
+    .feature-right {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+        margin: 0 auto;
+    }
+
+}
+
+.features h2 {
+    font-size: 4rem;
+    font-weight: 600;
+}
+
+.features h3 {
+    font-size: 3rem;
+    text-transform: uppercase;
+}
+
+.features p {
+    font-size: 2rem;
+}
