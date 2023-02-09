@@ -18,7 +18,7 @@ const Contact = () => {
     };
   
   return (
-    <section>
+    <section id ="contact">
         <div className='container'>
             <h2 className="--text-center">Contact Us</h2>
             <form ref={form} onSubmit={sendEmail}className='--form-control --card --flex-center --dir-column'>

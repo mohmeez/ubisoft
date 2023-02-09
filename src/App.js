@@ -16,8 +16,7 @@ function App() {
       <Download/>
       <Subscribe/>
       <Contact/>
-      <Footer/>
-         
+      <Footer/>   
     </main>
   );
 }
