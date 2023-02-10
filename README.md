@@ -68,3 +68,9 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+References:
+ZinoTrust Academy. (2021, November 24). Build A Modern Website With ReactJS - React Website Tutorial [Video]. YouTube. https://www.youtube.com/watch?v=cwKnvWPCGgQ
+
+
+
